@@ -1,5 +1,3 @@
-"use server";
-
 import { redirect } from "next/navigation";
 import type { ReactNode } from "react";
 import NavHeader from "~/components/nav-header";
